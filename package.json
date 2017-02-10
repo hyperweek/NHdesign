@@ -6,7 +6,7 @@
   "repository": "fonsart/NHdesign",
   "devDependencies": {
     "bootstrap-sass": "~3.3.5",
-    "fabricator": "fbrctr/fabricator",
+    "fabricator": "git://github.com/fbrctr/fabricator.git#v1.2.3",
     "html5shiv": "^3.7.3",
     "jquery": "^2.1.4",
     "respond.js": "^1.4.2",
@@ -19,7 +19,7 @@
     "casperjs": "^1.1.0-beta3",
     "chai": "^3.4.1",
     "del": "~2.2.0",
-    "fabricator-assemble": "fbrctr/fabricator-assemble.git",
+    "fabricator-assemble": "fbrctr/fabricator-assemble",
     "gulp": "^3.9.0",
     "gulp-browserify": "^0.5.1",
     "gulp-casperjs": "0.0.5",
@@ -27,7 +27,7 @@
     "gulp-consolidate": "^0.1.2",
     "gulp-gh-pages": "^0.5.1",
     "gulp-hologram": "^1.2.0",
-    "gulp-iconfont": "^5.0.1",
+    "gulp-iconfont": "^8.0.1",
     "gulp-if": "^2.0.0",
     "gulp-imagemin": "^2.2.1",
     "gulp-jshint": "^2.0.0",
@@ -41,7 +41,7 @@
     "gulp-sass": "^2.0.0",
     "gulp-size": "^2.0.0",
     "gulp-sourcemaps": "^1.5.2",
-    "gulp-uglify": "~1.5.1",
+    "gulp-uglify": "~2.0.1",
     "gulp-util": "^3.0.4",
     "helper-markdown": "^0.1.1",
     "imagemin-pngquant": "^4.1.0",
@@ -66,7 +66,6 @@
     "jquery-fleximages": "Pixabay/jQuery-flexImages"
   },
   "dependencies": {
-    "jquery.filer": "^1.0.4",
     "masonry-layout": "^4.0.0"
   }
 }
